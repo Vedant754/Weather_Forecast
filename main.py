@@ -11,6 +11,6 @@ if __name__ == "__main__":
 # git init
 # git add README.md
 # git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Vedant754/Weather_Forecast.git
-git push -u origin main
+# git branch -M main
+# git remote add origin https://github.com/Vedant754/Weather_Forecasting.git
+# git push -u origin main
