@@ -49,9 +49,11 @@ weather_app/
 4. **Configure the API key:**
    Open the config.py file in a text editor and replace your_api_key_here with your actual OpenWeather API key:
    API_KEY = "your_api_key_here"
+   <br>
    BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
+   <br>
    FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast?"
-5. **Run the application:**
+6. **Run the application:**
     Finally, start the application by running the main.py file:
 
 
