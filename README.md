@@ -13,6 +13,7 @@ This Weather App allows users to get current weather information for various sta
 
 ## Project Structure
 weather_app/
+<br>
 |-- main.py            # Entry point of the application
 <br>
 |-- ui.py              # Contains the UI code
