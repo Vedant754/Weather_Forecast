@@ -1,4 +1,4 @@
-# Weather Forecast
+# Weather Forecast App
 
 ## Description
 This Weather App allows users to get current weather information for various states in India. It uses the OpenWeather API to fetch the data and display it in a user-friendly interface. The app also provides a 5-day weather forecast, search history, and favorite cities functionality.
@@ -14,11 +14,17 @@ This Weather App allows users to get current weather information for various sta
 ## Project Structure
 weather_app/
 |-- main.py            # Entry point of the application
+<br>
 |-- ui.py              # Contains the UI code
+<br>
 |-- weather_api.py     # Contains the API call functions
+<br>
 |-- config.py          # Configuration file for API keys and base URLs
+<br>
 |-- utils.py           # Utility functions for graphical representation
+<br>
 |-- README.md          # Project documentation
+<br>
 |-- requirements.txt   # List of required Python packages
 
 
