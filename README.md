@@ -48,6 +48,7 @@ weather_app/
    pip install -r requirements.txt
 4. **Configure the API key:**
    Open the config.py file in a text editor and replace your_api_key_here with your actual OpenWeather API key:
+   <br>
    API_KEY = "your_api_key_here"
    <br>
    BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
